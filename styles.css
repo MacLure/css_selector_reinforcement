@@ -1,0 +1,17 @@
+p {
+    color: green;
+}
+
+a:hover {
+    color: coral
+}
+
+h1 {
+    font-size: 5em;
+}
+
+.bears >li {
+    display: inline-block;
+}
+
+
